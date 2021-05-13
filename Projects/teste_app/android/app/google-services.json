@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "278732697029",
+    "firebase_url": "https://teste-5b06d.firebaseio.com",
+    "project_id": "teste-5b06d",
+    "storage_bucket": "teste-5b06d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278732697029:android:ae9a33be44d1a860276fac",
+        "android_client_info": {
+          "package_name": "emersonpestana.teste_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "278732697029-8schkh5t4k53dafc2koahlf3olps3ggu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "emersonpestana.teste_app",
+            "certificate_hash": "b04017efb90bd844b459f1900846e374a0ea729d"
+          }
+        },
+        {
+          "client_id": "278732697029-enbb56a6pl6pogk3ho5m9t0d0695fuel.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDykypevevfiTEmbBos5q4h3BVtxeV2lIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "278732697029-enbb56a6pl6pogk3ho5m9t0d0695fuel.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

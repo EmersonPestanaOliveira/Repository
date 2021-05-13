@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "677991315174",
+    "firebase_url": "https://daflor-e940e.firebaseio.com",
+    "project_id": "daflor-e940e",
+    "storage_bucket": "daflor-e940e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677991315174:android:592b5076f54f2d2b81ed27",
+        "android_client_info": {
+          "package_name": "emersonpestana.daflor_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "677991315174-tqgq1of7iem355vdq4r4s6pd97fmrd6r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "emersonpestana.daflor_app",
+            "certificate_hash": "b04017efb90bd844b459f1900846e374a0ea729d"
+          }
+        },
+        {
+          "client_id": "677991315174-3ph6svgq1k65paa10h1fn21fi1fimqtj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBloGo2yeZS7SXEqGNVhPZrCwKuiLdNClA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "677991315174-3ph6svgq1k65paa10h1fn21fi1fimqtj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
